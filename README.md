@@ -6,11 +6,7 @@
 
 | Название проекта | Описание проекта | Стек |
 |:---|:---|:---|
-| Проект 1 Исследование нескольких аспектов мобильной игры ([github](https://github.com/username/project-1)) | Выбор, расчёт продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов A/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap). | pandas, numpy, seaborn, matplotlib, scipy, requests |
-| Проект 2 Анализ продуктовых метрик ([github](https://github.com/username/project-2)) | Расчёт и анализ продуктовых метрик (MAU, ROMI, CR). Присвоение пользователям когорты и получение конверсии из установки в покупку в течение 7 дней. Поиск этапа воронки, на котором отваливается большая часть клиентов. | pandas, plotly, requests, Tableau |
-| Проект 3 RFM-анализ ([github](https://github.com/username/project-3)) | Сегментация пользователей, проведение RFM-анализа. | pandas |
-| Проект 4 E-commerce ([github](https://github.com/username/project-4)) | Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ. | pandas, seaborn, matplotlib, requests |
-| Проекты SQL ([github](https://github.com/username/sql-projects)) | Решение задач по группировке, агрегатным функциям, объединению таблиц, преобразованию типов данных, подзапросам, представлениям, созданию таблиц, ETL (Python + SQL), оконным функциям, визуализации в Redash. | SQL, ClickHouse, PostgreSQL, Redash, pandas, pandahouse, numpy, seaborn, matplotlib |
+| Проект 1 Исследование gjdtltybz gjnht,bntktq ([github](https://github.com/ddanwit/customer_shopping_behaviour_analysis)) | Сквозной анализ покупательского поведения 3 900 клиентов розничной сети: от очистки данных до интерактивного дашборда и презентации с рекомендациями для бизнеса. | pandas, numpy, seaborn, matplotlib, MySQL, Power BI |
 
 ---
 
