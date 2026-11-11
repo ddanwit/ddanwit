@@ -48,7 +48,6 @@
 ---
 
 ### Курсы:
-
 <br>
 <a href="https://lab.karpov.courses/certificate/99356f8a-9d95-4bda-b331-9e82648fe5e6/"><img src="https://img.shields.io/badge/KARPOV-COURSES-0F0050?style=for-the-badge" alt="Karpov Courses"></a>
 <br>
