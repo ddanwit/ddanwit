@@ -6,7 +6,7 @@
 
 | Название проекта | Описание проекта | Стек |
 |:---|:---|:---|
-| Проект 1 Исследование gjdtltybz gjnht,bntktq ([github](https://github.com/ddanwit/customer_shopping_behaviour_analysis)) | Сквозной анализ покупательского поведения 3 900 клиентов розничной сети: от очистки данных до интерактивного дашборда и презентации с рекомендациями для бизнеса. | pandas, numpy, seaborn, matplotlib, MySQL, Power BI |
+| Проект 1 Исследование потребительского поведения ([github](https://github.com/ddanwit/customer_shopping_behaviour_analysis)) | Сквозной анализ покупательского поведения 3 900 клиентов розничной сети: от очистки данных до интерактивного дашборда и презентации с рекомендациями для бизнеса. | pandas, numpy, seaborn, matplotlib, MySQL, Power BI |
 
 ---
 
