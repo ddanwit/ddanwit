@@ -44,3 +44,14 @@
 <div align="center">
 <a href="https://t.me/ddanwit"><img src="https://img.shields.io/badge/TELEGRAM-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>&nbsp;<a href="mailto:darinarad07@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;<a href="https://www.linkedin.com/in/дарина-радвилович-03640033b"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
+
+---
+
+### Курсы:
+
+<br>
+<a href="https://lab.karpov.courses/certificate/99356f8a-9d95-4bda-b331-9e82648fe5e6/"><img src="https://img.shields.io/badge/KARPOV-COURSES-0F0050?style=for-the-badge" alt="Karpov Courses"></a>
+<br>
+<a href="https://www.udemy.com/certificate/UC-589d6e31-0625-4a2b-a46c-937e797cea21/"><img src="https://img.shields.io/badge/UDEMY-0F0050?style=for-the-badge&logo=udemy&logoColor=A435F0" alt="Udemy"></a>
+<br>
+<a href="https://stepik.org/cert/3228735"><img src="https://img.shields.io/badge/STEPIK-0F0050?style=for-the-badge&logo=stepik&logoColor=66CC66" alt="Stepik"></a>
