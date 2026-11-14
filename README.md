@@ -7,7 +7,8 @@
 | Название проекта | Описание проекта | Стек |
 |:---|:---|:---|
 | Проект 1 A/B-тест нового алгоритма рекомендаций в ленте новостей ([github](https://github.com/ddanwit/ab-testing-feed-algorithm)) | Полный цикл A/B-эксперимента: от постановки гипотезы и расчёта размера выборки до анализа результатов, разбора неоднородного эффекта и решения о раскатке. | pandas, numpy, seaborn, matplotlib, SQL, ClickHouse |
-| Проект 2 Исследование потребительского поведения ([github](https://github.com/ddanwit/customer_shopping_behaviour_analysis)) | Сквозной анализ покупательского поведения 3 900 клиентов розничной сети: от очистки данных до интерактивного дашборда и презентации с рекомендациями для бизнеса. | pandas, numpy, seaborn, matplotlib, MySQL, Power BI |
+| Проект 2 Автоматизация отчётности и мониторинга приложения ([github](https://github.com/ddanwit/analytics-automation-airflow)) | Автоматизация аналитики для приложения: ETL-пайплайн метрик в разрезах, ежедневные отчёты и алерты по аномалиям каждые 15 минут в Telegram, дашборды в Superset. | pandas, numpy, matplotlib, SQL, ClickHouse, Apache Airflow, Apache Superset, Telegram Bot API |
+| Проект 3 Исследование потребительского поведения ([github](https://github.com/ddanwit/customer_shopping_behaviour_analysis)) | Сквозной анализ покупательского поведения 3 900 клиентов розничной сети: от очистки данных до интерактивного дашборда и презентации с рекомендациями для бизнеса. | pandas, numpy, seaborn, matplotlib, MySQL, Power BI |
 
 ---
 
